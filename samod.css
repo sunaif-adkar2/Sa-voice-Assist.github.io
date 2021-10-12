@@ -1,0 +1,42 @@
+img {
+border: solid 1px;
+border-radius: 12px;
+border-color: white;
+width:100px; 
+position:absolute ;
+right:0px;
+top: 250px;
+}
+#user{
+position:absolute;
+left:10px;
+top: 200px;
+}
+#bot{
+position:absolute;
+left: 10px;
+top: 235px;
+}
+body {
+ background: linear-gradient(120deg, #ff002b,#ff006c,#ff00aa,#fd00ff);
+font-style: oblique;
+
+ font-family: serif;
+ color: #8700ff;
+ text-align: center;
+}
+input{
+font-family: serif;
+height: 22px;
+font-size: 18px;
+text-align: center;
+}
+button{
+border: solid 1px;
+border-radius: 4px 10px 4px 10px ;
+border-color:#ff00a4;
+height: 30px;
+font-size: 12px;
+font-family: serif;
+background: linear-gradient(40deg, #006dff,#009fff,#00daff) ;
+}
